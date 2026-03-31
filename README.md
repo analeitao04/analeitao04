@@ -26,5 +26,5 @@ I am an Artificial Intelligence and Data Science student, passionate about findi
   
 * **Connect Four AI Agent**(May 2024): Developed an intelligent agent to play Connect Four, implementing and comparing three distinct Artificial Intelligence algorithms to evaluate state spaces and optimize decision-making.
   
-* **Audio Signal Classification**(Dez 2025): Implemented a Machine Learning pipeline to process raw audio files, extract relevant acoustic features, and accurately classify the audio signals into specific categories.
+* **[Audio Signal Classification](https://github.com/analeitao04/Audio-Signal-Classification)**(Dez 2025): Implemented a Machine Learning pipeline to process raw audio files, extract relevant acoustic features, and accurately classify the audio signals into specific categories. 
   
