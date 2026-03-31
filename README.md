@@ -18,13 +18,13 @@ I am an Artificial Intelligence and Data Science student, passionate about findi
 
 ### Featured Projects
 
-* **E-commerce Platform**(Apr 2016): Developed a functional e-commerce application focusing on robust architecture, data management, and seamless user interaction.
+* **[E-commerce Platform](https://github.com/analeitao04/Global-Ecommerce-Forecasting)** (Apr 2016): Developed a functional e-commerce application focusing on robust architecture, data management, and seamless user interaction.
 
-* **Intelligent Autonomous Ambulance Simulation**(Nov 2025): Designed a multi-agent environment simulating a city grid where autonomous ambulances must efficiently navigate, and transport patients to hospitals using advanced pathfinding and agent-based logic.
+* **Intelligent Autonomous Ambulance Simulation** (Nov 2025): Designed a multi-agent environment simulating a city grid where autonomous ambulances must efficiently navigate, and transport patients to hospitals using advanced pathfinding and agent-based logic.
   
-* **Lung Cancer Detection via CT Scans**(Out 2025): Built a predictive model to analyze and classify CT scan imagery, applying computer vision and machine learning techniques to assist in the early detection of pulmonary nodules.
+* **Lung Cancer Detection via CT Scans** (Out 2025): Built a predictive model to analyze and classify CT scan imagery, applying computer vision and machine learning techniques to assist in the early detection of pulmonary nodules.
   
-* **Connect Four AI Agent**(May 2024): Developed an intelligent agent to play Connect Four, implementing and comparing three distinct Artificial Intelligence algorithms to evaluate state spaces and optimize decision-making.
+* **Connect Four AI Agent** (May 2024): Developed an intelligent agent to play Connect Four, implementing and comparing three distinct Artificial Intelligence algorithms to evaluate state spaces and optimize decision-making.
   
-* **[Audio Signal Classification](https://github.com/analeitao04/Audio-Signal-Classification)**(Dez 2025): Implemented a Machine Learning pipeline to process raw audio files, extract relevant acoustic features, and accurately classify the audio signals into specific categories. 
+* **[Audio Signal Classification](https://github.com/analeitao04/Audio-Signal-Classification)** (Dez 2025): Implemented a Machine Learning pipeline to process raw audio files, extract relevant acoustic features, and accurately classify the audio signals into specific categories. 
   
